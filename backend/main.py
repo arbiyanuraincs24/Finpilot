@@ -23,7 +23,10 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173"
+        "http://localhost:5173",
+         "https://finpilot-wine.vercel.app",
+        "https://finpilot-git-main-arbi1024.vercel.app",
+        "https://finpilot-mjkhhhuxg-arbi1024.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
