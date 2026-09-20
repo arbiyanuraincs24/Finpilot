@@ -1,0 +1,115 @@
+date,description,category,transaction_type,amount
+2026-01-02,Salary,Income,income,72000
+2026-01-03,Apartment Rent,Housing,expense,22000
+2026-01-04,Electricity Bill,Utilities,expense,1850
+2026-01-05,BigBasket,Groceries,expense,3200
+2026-01-06,Swiggy,Food,expense,780
+2026-01-08,Uber,Transport,expense,620
+2026-01-10,Amazon,Shopping,expense,2450
+2026-01-12,Netflix,Subscriptions,expense,649
+2026-01-14,Restaurant,Food,expense,1450
+2026-01-16,Pharmacy,Health,expense,850
+2026-01-18,Metro Card,Transport,expense,500
+2026-01-20,Electricity Bill,Utilities,expense,1720
+2026-01-22,Swiggy,Food,expense,920
+2026-01-24,Myntra,Shopping,expense,1850
+2026-01-26,BigBasket,Groceries,expense,2750
+2026-01-28,Uber,Transport,expense,710
+2026-01-30,Movie,Entertainment,expense,650
+2026-02-02,Salary,Income,income,68000
+2026-02-03,Apartment Rent,Housing,expense,22000
+2026-02-04,Internet Bill,Utilities,expense,999
+2026-02-05,BigBasket,Groceries,expense,4100
+2026-02-07,Swiggy,Food,expense,1150
+2026-02-09,Amazon,Shopping,expense,3200
+2026-02-11,Uber,Transport,expense,850
+2026-02-13,Gym Membership,Subscriptions,expense,1800
+2026-02-15,Restaurant,Food,expense,2100
+2026-02-17,Pharmacy,Health,expense,1200
+2026-02-19,Metro Card,Transport,expense,600
+2026-02-21,Travel Booking,Travel,expense,5500
+2026-02-23,Swiggy,Food,expense,980
+2026-02-25,BigBasket,Groceries,expense,3300
+2026-02-27,Uber,Transport,expense,920
+2026-02-28,Concert,Entertainment,expense,1800
+2026-03-02,Salary,Income,income,76000
+2026-03-03,Apartment Rent,Housing,expense,22000
+2026-03-04,Electricity Bill,Utilities,expense,2100
+2026-03-05,BigBasket,Groceries,expense,3600
+2026-03-07,Swiggy,Food,expense,890
+2026-03-09,Amazon,Shopping,expense,6200
+2026-03-11,Uber,Transport,expense,780
+2026-03-13,Netflix,Subscriptions,expense,649
+2026-03-15,Restaurant,Food,expense,1750
+2026-03-17,Medical Test,Health,expense,2800
+2026-03-19,Metro Card,Transport,expense,550
+2026-03-21,Swiggy,Food,expense,1250
+2026-03-23,Flipkart,Shopping,expense,2850
+2026-03-25,BigBasket,Groceries,expense,2950
+2026-03-27,Uber,Transport,expense,690
+2026-03-29,Online Course,Education,expense,1499
+2026-04-02,Salary,Income,income,70000
+2026-04-03,Apartment Rent,Housing,expense,22000
+2026-04-04,Internet Bill,Utilities,expense,999
+2026-04-05,BigBasket,Groceries,expense,3850
+2026-04-07,Swiggy,Food,expense,1050
+2026-04-09,Amazon,Shopping,expense,2100
+2026-04-11,Uber,Transport,expense,880
+2026-04-13,Gym Membership,Subscriptions,expense,1800
+2026-04-15,Restaurant,Food,expense,1950
+2026-04-17,Pharmacy,Health,expense,950
+2026-04-19,Metro Card,Transport,expense,600
+2026-04-21,Swiggy,Food,expense,870
+2026-04-23,Myntra,Shopping,expense,3400
+2026-04-25,BigBasket,Groceries,expense,3100
+2026-04-27,Uber,Transport,expense,760
+2026-04-29,Movie,Entertainment,expense,900
+2026-05-02,Salary,Income,income,74000
+2026-05-03,Apartment Rent,Housing,expense,22000
+2026-05-04,Electricity Bill,Utilities,expense,1950
+2026-05-05,BigBasket,Groceries,expense,4300
+2026-05-07,Swiggy,Food,expense,1320
+2026-05-09,Amazon,Shopping,expense,2800
+2026-05-11,Uber,Transport,expense,920
+2026-05-13,Netflix,Subscriptions,expense,649
+2026-05-15,Restaurant,Food,expense,2400
+2026-05-17,Pharmacy,Health,expense,1350
+2026-05-19,Metro Card,Transport,expense,550
+2026-05-21,Swiggy,Food,expense,1100
+2026-05-23,BigBasket,Groceries,expense,2950
+2026-05-25,Shopping Mall,Shopping,expense,4800
+2026-05-27,Uber,Transport,expense,830
+2026-05-29,Weekend Trip,Travel,expense,6500
+2026-06-02,Salary,Income,income,81000
+2026-06-03,Apartment Rent,Housing,expense,22000
+2026-06-04,Internet Bill,Utilities,expense,999
+2026-06-05,BigBasket,Groceries,expense,3700
+2026-06-07,Swiggy,Food,expense,950
+2026-06-09,Amazon,Shopping,expense,3900
+2026-06-11,Uber,Transport,expense,1050
+2026-06-13,Gym Membership,Subscriptions,expense,1800
+2026-06-15,Restaurant,Food,expense,2200
+2026-06-17,Doctor Visit,Health,expense,2500
+2026-06-19,Metro Card,Transport,expense,650
+2026-06-21,Swiggy,Food,expense,1350
+2026-06-23,BigBasket,Groceries,expense,3400
+2026-06-25,Flipkart,Shopping,expense,2750
+2026-06-27,Uber,Transport,expense,970
+2026-06-29,Mutual Fund Investment,Investment,expense,7000
+2026-07-02,Salary,Income,income,69000
+2026-07-03,Apartment Rent,Housing,expense,22000
+2026-07-04,Electricity Bill,Utilities,expense,2300
+2026-07-05,BigBasket,Groceries,expense,4500
+2026-07-07,Swiggy,Food,expense,1450
+2026-07-09,Amazon,Shopping,expense,5200
+2026-07-11,Uber,Transport,expense,1100
+2026-07-13,Netflix,Subscriptions,expense,649
+2026-07-15,Restaurant,Food,expense,2600
+2026-07-17,Pharmacy,Health,expense,1100
+2026-07-19,Metro Card,Transport,expense,600
+2026-07-21,Swiggy,Food,expense,1250
+2026-07-23,Myntra,Shopping,expense,3800
+2026-07-25,BigBasket,Groceries,expense,3150
+2026-07-27,Uber,Transport,expense,890
+2026-07-29,Flight Booking,Travel,expense,9500
+2026-07-30,Laptop Purchase,Shopping,expense,80000
