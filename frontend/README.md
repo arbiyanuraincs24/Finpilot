@@ -1014,7 +1014,7 @@ python -m uvicorn main:app --reload
 The backend runs locally at:
 
 ```text
-http://127.0.0.1:8000
+const API_URL = "https://finpilot-1-vnma.onrender.com";
 ```
 
 ---
